@@ -12,4 +12,4 @@ Installation:
 
 4. Enjoy
 
-*I made this game in highschool, so its pretty bad :)
+note: I made this game in highschool, so its pretty bad :)
