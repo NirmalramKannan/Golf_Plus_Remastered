@@ -12,4 +12,4 @@ Installation:
 
 4. Enjoy
 
-note: I made this game in highschool, so its pretty bad :)
+note: This game is pretty bad since I made it in highschool (you don't want to see how bad the orignial Golf Plus was XD). Only uploaded it cause of my newer and much better game: https://golfplusdeluxe.com/ 
