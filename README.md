@@ -11,3 +11,5 @@ Installation:
 3. Run "Golf_Plus_Remastered.exe"
 
 4. Enjoy
+
+*I made this game in highschool, so its pretty bad :)
