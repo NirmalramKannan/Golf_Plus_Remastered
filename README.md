@@ -2,7 +2,7 @@ The Remastered version of the popular game _Golf Plus_
 
 Installation:
 
-*This project uses Git LFS for large files*
+*Project uses Git LFS for large files*
 
 1. Download project
 
@@ -12,4 +12,4 @@ Installation:
 
 4. Enjoy
 
-note: This game is pretty bad since I made it in highschool (you don't want to see how bad the orignial Golf Plus was XD). Only uploaded it cause of my newer and much better game: https://golfplusdeluxe.com/ 
+note: This game is pretty bad since I made it in highschool using processing. Only uploaded it cause of my newer web based game: https://golfplusdeluxe.com/
